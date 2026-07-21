@@ -19,7 +19,7 @@ https://github.com/SANIA-SAADU/ShieldA
 
 ### 📄 Documentation
 
-[📘 View Project Documentation](public/images/ShieldAI (1).pdf)
+📘 [View Project Documentation](./docs/ShieldAI_Documentation.pdf)
 
 
 
@@ -269,7 +269,7 @@ Emergency Actions
 
 ## Landing Page
 
-![Landing](public/images/landing.jpeg)
+![Landing](public/images/landingpage.jpeg)
 
 ---
 
