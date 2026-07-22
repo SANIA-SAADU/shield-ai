@@ -11,11 +11,11 @@ ShieldAI proactively detects cyber fraud using Artificial Intelligence before fi
 ---
 
 ### 🔗 Live Demo
-https://shield-ai-oewg.vercel.app/login
+https://shield-ai-oewg.vercel.app/
 
 ### 💻 GitHub Repository
 
-https://github.com/SANIA-SAADU/ShieldA
+https://github.com/SANIA-SAADU/shield-ai/
 
 ### 📄 Documentation
 
